@@ -41,3 +41,4 @@ Esta é uma aplicação de TO-DO simples desenvolvida em GoLang, utilizando MySQ
 
 ## Referencia
 O passo a passo você pode encontrar no post 
+https://leonardosugahara.blogspot.com/2024/03/criando-uma-api-em-go-com-swagger-e.html
